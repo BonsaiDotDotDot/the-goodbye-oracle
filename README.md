@@ -21,6 +21,7 @@ This dataset is built from the following public sources:
 - [Open Food Facts](https://world.openfoodfacts.org/) — product, brand, and ingredient data (Open Database License)
 - [Wikidata](https://www.wikidata.org/) — corporate ownership chains (CC0)
 - [US Department of Labor ILAB](https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods) — child and forced labor goods list (public domain)
+- [Leaping Bunny](https://www.leapingbunny.org/) — cruelty-free certified brands (Leaping Bunny Standard)
 
 ## Verification
 
