@@ -1,15 +1,15 @@
 {
-  "version": "2",
-  "created_at": "2026-01-31T19:05:01.879587+00:00",
-  "release_url": "https://github.com/BonsaiDotDotDot/the-goodbye-oracle/releases/tag/v2",
+  "version": "3",
+  "created_at": "2026-02-01T01:49:52.864560+00:00",
+  "release_url": "https://github.com/BonsaiDotDotDot/the-goodbye-oracle/releases/tag/v3",
   "assets": [
     {
       "filename": "master.sqlite",
-      "checksum": "758eda653831ce257ce5039c07a4c68d2eacbc2d2a1e4282768a59dbccbc1fdd"
+      "checksum": "0819e7c4be15eb1837d0ad63f1375a71711ec19d205d56cac876c7612dc0e4fa"
     },
     {
       "filename": "master.sqlite.sig",
-      "checksum": "56c8cc61d8760efc94077b829ac1c5af678fc11944afb4463afb9ff427155006"
+      "checksum": "534249c481a35ed3881ae0b725270961753f8c9a99195570afe1150b082ba62a"
     }
   ]
 }
