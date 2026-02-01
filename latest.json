@@ -1,15 +1,27 @@
 {
-  "version": "3",
-  "created_at": "2026-02-01T01:49:52.864560+00:00",
-  "release_url": "https://github.com/BonsaiDotDotDot/the-goodbye-oracle/releases/tag/v3",
+  "version": "4",
+  "created_at": "2026-02-01T06:44:06.586461+00:00",
+  "release_url": "https://github.com/BonsaiDotDotDot/the-goodbye-oracle/releases/tag/v4",
   "assets": [
     {
+      "filename": "delta-3-to-4.json",
+      "checksum": "138d42662ef482739afcfc508275a75fe49c5d1f73bf2b7881357729a38bf8a2"
+    },
+    {
+      "filename": "delta-3-to-4.json.sig",
+      "checksum": "8eb1fadbf7fb83351fd1ee539c48e73dbbb5d11b555efa13483141211ffbae41"
+    },
+    {
+      "filename": "delta-3-to-4.sha256",
+      "checksum": "7c60eeb773f0646beb6eb919af4860345047699d1c443c9b4da0c469279ce835"
+    },
+    {
       "filename": "master.sqlite",
-      "checksum": "0819e7c4be15eb1837d0ad63f1375a71711ec19d205d56cac876c7612dc0e4fa"
+      "checksum": "1f3aef1b8e1d8e04874f1e863bea6cbd2aaa3f90d0cda58fa6ec2f7545e4f871"
     },
     {
       "filename": "master.sqlite.sig",
-      "checksum": "534249c481a35ed3881ae0b725270961753f8c9a99195570afe1150b082ba62a"
+      "checksum": "bfb4e51a0db00e84444b869587b9403135fc0017bfbab175c6bcd6c812fd2dcd"
     }
   ]
 }
